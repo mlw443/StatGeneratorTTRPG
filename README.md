@@ -8,7 +8,6 @@ recommended to only allow each row, column, or diagnal to be picked by one and o
 This also has the benefit of getting the players to talk and figure out how they are going
 to divy up stats before the start of the campaign.
 
-
 # Technical Details #
 
 Each diagnal, row, and column add up to a specific number that is set by the user. The
@@ -25,5 +24,4 @@ file under the SIZE variable.
 The make command will compile and run the program as normal. If you want to see the sum of
 each line, run make sum.
 
-
-May the rolls be forever in your favor.
+# May the rolls be forever in your favor. #
