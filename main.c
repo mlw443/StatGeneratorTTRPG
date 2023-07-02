@@ -35,7 +35,7 @@ int main(){
   //print results
   printStats(stats);
 
-  return EXIT_SUCCESS
+  return EXIT_SUCCESS;
 }
 
 #endif
